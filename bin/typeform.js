@@ -3,7 +3,6 @@
 const { promisify } = require('util')
 const { resolve } = require('path')
 const { Command } = require('commander')
-const Trello = require('trello')
 const fetch = require('node-fetch')
 const dayjs = require('dayjs')
 const fs = require('fs')
