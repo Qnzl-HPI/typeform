@@ -13,6 +13,6 @@
   "dependencies": {
     "commander": "^7.1.0",
     "dayjs": "^1.10.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.0"
   }
 }
